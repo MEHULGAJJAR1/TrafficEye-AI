@@ -1,0 +1,14 @@
+
+> trafficeye-ai@1.0.0 build
+> vite build
+
+vite v6.4.5 building for production...
+transforming...
+✓ 2179 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.69 kB │ gzip:   0.42 kB
+dist/assets/index-BcSG9LwP.css   73.47 kB │ gzip:  16.18 kB
+dist/assets/index-DnQPJ3r8.js   338.96 kB │ gzip: 100.59 kB
+dist/assets/charts-C8IyB6pR.js  418.87 kB │ gzip: 121.22 kB
+✓ built in 9.50s

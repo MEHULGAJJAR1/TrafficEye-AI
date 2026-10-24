@@ -1,0 +1,28 @@
+{
+  "job_id": "d7476017-e31f-48b5-8848-e96505ca1d5a",
+  "mode": "scripted-demo-not-ai",
+  "processed_frames": 720,
+  "duration_seconds": 60,
+  "active_elapsed_seconds": 22.873,
+  "processing_fps": 31.48,
+  "inference_fps": 0,
+  "summary": {
+    "total_vehicles": 28,
+    "unique_tracked_vehicles": 28,
+    "motorcycles": 7,
+    "cars": 7,
+    "four_wheelers": 21,
+    "helmet_violations": 4,
+    "seatbelt_violations": 7,
+    "confirmed_violations": 11,
+    "unique_violating_vehicles": 11,
+    "violation_rate": 39.29,
+    "detection_events": 4249,
+    "vehicles_in": 13,
+    "vehicles_out": 14,
+    "processing_fps": 31.48,
+    "inference_fps": 0,
+    "processed_frames": 720
+  },
+  "note": "Synthetic fixture pipeline measurements, NOT model accuracy or real-world benchmarks."
+}

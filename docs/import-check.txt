@@ -1,0 +1,4 @@
+Imports OK | Python 3.13.16 | PyTorch 2.9.1+cpu | CUDA available: False
+Workspace initialized. No custom model weights are included.
+Database: /home/user/TrafficEye-AI/data/trafficeye.sqlite3
+Access key file: /home/user/TrafficEye-AI/data/access.key

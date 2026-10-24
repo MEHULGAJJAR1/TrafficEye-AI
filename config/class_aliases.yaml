@@ -1,0 +1,10 @@
+# Exact normalized aliases only. Review against YOUR annotation semantics.
+# Do not alias a generic 'person', 'rider', or 'truck' to a safety/vehicle class.
+Bike: [motorcycle, motorbike]
+Car: [car]
+Jeep: [jeep, suv]
+Van: [van, minivan]
+Helmet: [helmet, with-helmet, wearing-helmet]
+No-Helmet: [no_helmet, without-helmet, not-wearing-helmet]
+Seatbelt: [seat_belt, with-seatbelt, wearing-seatbelt]
+No-Seatbelt: [no_seat_belt, without-seatbelt, not-wearing-seatbelt]

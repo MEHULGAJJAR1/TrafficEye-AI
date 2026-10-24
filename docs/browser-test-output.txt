@@ -1,0 +1,12 @@
+
+> trafficeye-ai@1.0.0 test:e2e
+> playwright test
+
+
+Running 3 tests using 1 worker
+
+  ✓  1 tests/e2e/workflow.spec.js:25:1 › complete upload → scripted analysis → tracking → decision → snapshot → CSV (29.1s)
+  ✓  2 tests/e2e/workflow.spec.js:95:1 › all views, client errors, configuration, mobile layout and session locking (5.3s)
+  ✓  3 tests/e2e/workflow.spec.js:125:1 › WebSocket outage falls back to genuine HTTP job updates (833ms)
+
+  3 passed (36.8s)

@@ -1,0 +1,14 @@
+Python 3.13.16 | Linux-6.1.158+-x86_64-with-glibc2.41 | executable: /usr/local/bin/python
+OK  fastapi: 0.161.1
+OK  uvicorn: 0.54.0
+OK  opencv-python: 4.11.0.86
+OK  numpy: 2.3.5
+OK  torch: 2.9.1+cpu
+    CUDA available: False
+OK  torchvision: 0.24.1+cpu
+OK  ultralytics: 8.4.184
+OK  lap: 0.5.13
+OK  imageio-ffmpeg: 0.6.0
+    Encoder exists: True
+Configured model: Missing models/traffic-custom.pt. Demo is available; real violation detection requires all eight custom classes.
+Custom model missing is expected until your trusted weights are installed; demo works without them.

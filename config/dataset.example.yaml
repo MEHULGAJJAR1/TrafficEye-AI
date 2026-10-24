@@ -1,0 +1,14 @@
+# REFERENCE ONLY: supply your own legally obtained, labelled dataset.
+# Replace with an actual absolute directory; use forward slashes on Windows.
+path: REPLACE_WITH_ABSOLUTE_DATASET_DIRECTORY
+train: images/train
+val: images/val
+names:
+  0: Bike
+  1: Car
+  2: Jeep
+  3: Van
+  4: Helmet
+  5: No-Helmet
+  6: Seatbelt
+  7: No-Seatbelt

@@ -1,0 +1,15 @@
+PARSE OK: Common.ps1
+PARSE OK: Configure-Model.ps1
+PARSE OK: Doctor.ps1
+PARSE OK: Prepare-Sample.ps1
+PARSE OK: Setup.ps1
+PARSE OK: Start-All.ps1
+PARSE OK: Start-Backend.ps1
+PARSE OK: Start-Frontend.ps1
+PARSE OK: Test.ps1
+PowerShell native argument-array invocation OK
+9 scripts parsed without errors on Linux PowerShell. This is NOT Windows runtime verification.
+3.13.16 (main, Oct  6 2026, 04:38:44) [GCC 14.2.0]
+2.9.1+cpu 0.24.1+cpu
+All 3 Setup inline Python/Node validators executed using Legacy native argument passing on Linux PowerShell 7.6.8.
+This catches embedded-quote stripping; this is still NOT Windows runtime verification.

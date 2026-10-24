@@ -1,0 +1,64 @@
+
+> trafficeye-ai@1.0.0 test
+> node --test tests/*.test.mjs
+
+TAP version 13
+# Subtest: video duration is finite, nonnegative and padded
+ok 1 - video duration is finite, nonnegative and padded
+  ---
+  duration_ms: 2.016397
+  ...
+# Subtest: file size labels
+ok 2 - file size labels
+  ---
+  duration_ms: 0.299008
+  ...
+# Subtest: query serialization never drops valid zero values
+ok 3 - query serialization never drops valid zero values
+  ---
+  duration_ms: 1.072121
+  ...
+# Subtest: query text is correctly encoded
+ok 4 - query text is correctly encoded
+  ---
+  duration_ms: 0.504427
+  ...
+# Subtest: client rejects unsupported, empty and oversized videos
+ok 5 - client rejects unsupported, empty and oversized videos
+  ---
+  duration_ms: 0.802418
+  ...
+# Subtest: MP4, AVI and MOV extension matching is case-insensitive
+ok 6 - MP4, AVI and MOV extension matching is case-insensitive
+  ---
+  duration_ms: 0.282104
+  ...
+# Subtest: server validation messages are readable
+ok 7 - server validation messages are readable
+  ---
+  duration_ms: 0.350936
+  ...
+# Subtest: display helpers preserve source values
+ok 8 - display helpers preserve source values
+  ---
+  duration_ms: 0.397724
+  ...
+# Subtest: non-finite video durations are never rendered as infinity
+ok 9 - non-finite video durations are never rendered as infinity
+  ---
+  duration_ms: 0.471983
+  ...
+# Subtest: date-filter input values survive reopening the filters panel
+ok 10 - date-filter input values survive reopening the filters panel
+  ---
+  duration_ms: 0.784111
+  ...
+1..10
+# tests 10
+# suites 0
+# pass 10
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 167.917268

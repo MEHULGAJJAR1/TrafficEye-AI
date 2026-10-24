@@ -1,0 +1,60 @@
+{
+  "model_file": "traffic-custom.pt",
+  "device": "auto",
+  "imgsz": 640,
+  "confidence": 0.4,
+  "violation_confidence": 0.65,
+  "iou": 0.5,
+  "frame_stride": 1,
+  "vote_window": 7,
+  "min_votes": 4,
+  "vote_ratio": 0.67,
+  "min_evidence_seconds": 0.25,
+  "association_overlap": 0.55,
+  "ambiguity_margin": 0.15,
+  "bike_top_margin": 0.65,
+  "min_vehicle_pixels": 20,
+  "duplicate_iou": 0.75,
+  "duplicate_seconds": 2.5,
+  "track_high_thresh": 0.4,
+  "track_low_thresh": 0.1,
+  "new_track_thresh": 0.5,
+  "track_buffer": 30,
+  "match_thresh": 0.8,
+  "gmc_method": "sparseOptFlow",
+  "zones": [
+    {
+      "name": "Main carriageway",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ],
+  "count_line": [
+    [
+      0,
+      0.55
+    ],
+    [
+      1,
+      0.55
+    ]
+  ],
+  "positive_direction": "IN",
+  "line_hysteresis": 0.01
+}

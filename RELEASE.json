@@ -1,0 +1,11 @@
+{
+  "project": "TrafficEye AI",
+  "version": "1.0.0",
+  "built_at_utc": "2026-10-23T06:37:28+00:00",
+  "database": "clean schema only",
+  "sample": "original 60-second CC0 synthetic video; demo observations are scripted, not AI",
+  "required_for_real_safety_inference": "trusted, adequately trained YOLO26 .pt weights with all eight required classes; not supplied",
+  "evaluation_requires": "suitable independently labelled real traffic validation/ground-truth data",
+  "default_runtime": "single-process local workstation, SQLite, CPU PyTorch; optional supported CUDA hardware",
+  "no_secrets_or_custom_weights_bundled": true
+}

@@ -1,0 +1,236 @@
+{
+  "schema": 1,
+  "kind": "scripted-synthetic-demo-not-ai",
+  "license": "CC0-1.0",
+  "width": 960,
+  "height": 540,
+  "fps": 12,
+  "duration": 60,
+  "actors": [
+    {
+      "id": 1,
+      "start": -5.0,
+      "travel": 8.4,
+      "lane": 0,
+      "class_name": "Bike",
+      "status": "Helmet"
+    },
+    {
+      "id": 2,
+      "start": -2.8,
+      "travel": 8.4,
+      "lane": 1,
+      "class_name": "Van",
+      "status": "No-Seatbelt"
+    },
+    {
+      "id": 3,
+      "start": -0.6,
+      "travel": 8.4,
+      "lane": 2,
+      "class_name": "Jeep",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 4,
+      "start": 1.6,
+      "travel": 8.4,
+      "lane": 3,
+      "class_name": "Car",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 5,
+      "start": 3.8,
+      "travel": 8.4,
+      "lane": 0,
+      "class_name": "Car",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 6,
+      "start": 6.0,
+      "travel": 8.4,
+      "lane": 1,
+      "class_name": "Bike",
+      "status": "No-Helmet"
+    },
+    {
+      "id": 7,
+      "start": 8.2,
+      "travel": 8.4,
+      "lane": 2,
+      "class_name": "Van",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 8,
+      "start": 10.4,
+      "travel": 8.4,
+      "lane": 3,
+      "class_name": "Jeep",
+      "status": "No-Seatbelt"
+    },
+    {
+      "id": 9,
+      "start": 12.6,
+      "travel": 8.4,
+      "lane": 0,
+      "class_name": "Jeep",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 10,
+      "start": 14.8,
+      "travel": 8.4,
+      "lane": 1,
+      "class_name": "Car",
+      "status": "No-Seatbelt"
+    },
+    {
+      "id": 11,
+      "start": 17.0,
+      "travel": 8.4,
+      "lane": 2,
+      "class_name": "Bike",
+      "status": "No-Helmet"
+    },
+    {
+      "id": 12,
+      "start": 19.2,
+      "travel": 8.4,
+      "lane": 3,
+      "class_name": "Van",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 13,
+      "start": 21.4,
+      "travel": 8.4,
+      "lane": 0,
+      "class_name": "Van",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 14,
+      "start": 23.6,
+      "travel": 8.4,
+      "lane": 1,
+      "class_name": "Jeep",
+      "status": "No-Seatbelt"
+    },
+    {
+      "id": 15,
+      "start": 25.8,
+      "travel": 8.4,
+      "lane": 2,
+      "class_name": "Car",
+      "status": "No-Seatbelt"
+    },
+    {
+      "id": 16,
+      "start": 28.0,
+      "travel": 8.4,
+      "lane": 3,
+      "class_name": "Bike",
+      "status": "Helmet"
+    },
+    {
+      "id": 17,
+      "start": 30.2,
+      "travel": 8.4,
+      "lane": 0,
+      "class_name": "Bike",
+      "status": "No-Helmet"
+    },
+    {
+      "id": 18,
+      "start": 32.4,
+      "travel": 8.4,
+      "lane": 1,
+      "class_name": "Van",
+      "status": "No-Seatbelt"
+    },
+    {
+      "id": 19,
+      "start": 34.6,
+      "travel": 8.4,
+      "lane": 2,
+      "class_name": "Jeep",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 20,
+      "start": 36.8,
+      "travel": 8.4,
+      "lane": 3,
+      "class_name": "Car",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 21,
+      "start": 39.0,
+      "travel": 8.4,
+      "lane": 0,
+      "class_name": "Car",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 22,
+      "start": 41.2,
+      "travel": 8.4,
+      "lane": 1,
+      "class_name": "Bike",
+      "status": "Helmet"
+    },
+    {
+      "id": 23,
+      "start": 43.4,
+      "travel": 8.4,
+      "lane": 2,
+      "class_name": "Van",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 24,
+      "start": 45.6,
+      "travel": 8.4,
+      "lane": 3,
+      "class_name": "Jeep",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 25,
+      "start": 47.8,
+      "travel": 8.4,
+      "lane": 0,
+      "class_name": "Jeep",
+      "status": "Seatbelt"
+    },
+    {
+      "id": 26,
+      "start": 50.0,
+      "travel": 8.4,
+      "lane": 1,
+      "class_name": "Car",
+      "status": "No-Seatbelt"
+    },
+    {
+      "id": 27,
+      "start": 52.2,
+      "travel": 8.4,
+      "lane": 2,
+      "class_name": "Bike",
+      "status": "No-Helmet"
+    },
+    {
+      "id": 28,
+      "start": 54.4,
+      "travel": 8.4,
+      "lane": 3,
+      "class_name": "Van",
+      "status": "Seatbelt"
+    }
+  ],
+  "sha256": "bf8b1b034952feb16df5bbfd327bd417d7e1674def129e836ba9f2af46843aac"
+}
